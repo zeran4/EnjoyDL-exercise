@@ -1,0 +1,3 @@
+model_checkpoint_path: "cnn_excercise-500"
+all_model_checkpoint_paths: "cnn_excercise-0"
+all_model_checkpoint_paths: "cnn_excercise-500"
